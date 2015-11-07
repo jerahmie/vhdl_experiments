@@ -1,0 +1,3 @@
+NET "clk_in" LOC = "P80";
+NET "led" LOC = "P71";
+NET "btn" LOC ="P77";
